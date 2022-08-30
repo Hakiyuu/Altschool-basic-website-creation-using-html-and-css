@@ -1,0 +1,19 @@
+.flex_container{
+    width: 16%;
+}
+
+body{
+    background-color: whitesmoke;
+    padding: auto;
+}
+
+input{
+    width: 3%;
+    border: 2px solid slategrey;
+    background-color: whitesmoke;
+}
+
+header{
+    border: 10px;
+    color: slategrey;
+}

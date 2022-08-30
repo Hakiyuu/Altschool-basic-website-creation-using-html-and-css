@@ -1,0 +1,20 @@
+div{
+    text-align:center;
+    margin: auto;
+    
+}
+
+button{
+    text-align: center;
+    background-color: steelblue;
+    color: whitesmoke;
+
+}
+
+form{
+    border: 10px solid whitesmoke;
+    background-color:whitesmoke;
+    padding: 20px;
+    text-align: center;
+    
+}
